@@ -9,3 +9,5 @@ function get_element(mydocument)
       source: get_source(mydocument)
   });
 }
+
+console.log($("*"));
