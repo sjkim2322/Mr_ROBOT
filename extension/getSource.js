@@ -24,4 +24,8 @@ $("*").mouseout(function(){
   $(this).css("background-color", "blue")
 });
 
+<<<<<<< HEAD
 injection();
+=======
+console.log($("*"));
+>>>>>>> 3c5dfbd0419d2943d25d5749b6d5b681e9bf559a
