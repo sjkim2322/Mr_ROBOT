@@ -1,4 +1,3 @@
-// This file is appended to build/selectorgadget_combined.js to generate the final contentScript.
 
   }
 
